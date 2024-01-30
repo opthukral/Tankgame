@@ -10,19 +10,32 @@ Player Controls:
 Player 1 (WASD):
 
 Move Up: W
+
 Move Down: S
+
 Move Left: A
+
 Move Right: D
+
 Shoot: E
+
 Player 2 (Arrow Keys):
 
 Move Up: Up Arrow
+
 Move Down: Down Arrow
+
 Move Left: Left Arrow
+
 Move Right: Right Arrow
 
-https://github.com/opthukral/Tankgame/assets/156562997/00211a96-cfa0-44ef-9bdd-c6443cccfbf8
-
-
 Shoot: Right Shift
+
+
+Attached below is a preview of the game.
+
+https://github.com/opthukral/Tankgame/assets/156562997/1a8442ea-a7e3-4d0b-ac0b-e8607494e5b3
+
+
+
 Enjoy the game! Compete with a friend to see who can be the ultimate tank commander.
